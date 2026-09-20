@@ -56,3 +56,5 @@
 <p align="center">
   <i>⭐️ Designed with precision & passion by <a href="https://github.com/Shubrangshu1">Shubrangshu Giri</a></i>
 </p>
+
+<!-- Verified Developer Profile -->
