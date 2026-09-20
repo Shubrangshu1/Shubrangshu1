@@ -14,33 +14,39 @@
 <h3 align="center">🚀 Software Engineer & Full-Stack Developer | Enterprise Systems & Mobile Solutions</h3>
 
 <p align="center">
-  Passionate developer specializing in building scalable enterprise web platforms, real-time IoT/telematics tracking systems, and high-performance mobile applications.
+  Passionate software engineer building scalable enterprise platforms, real-time IoT/telematics tracking systems, and high-performance mobile applications.
 </p>
 
 ---
 
-### 🏆 GitHub Achievements & Trophies
+### 🏆 Official GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/Shubrangshu1?tab=achievements">
+    <img src="https://img.shields.io/badge/Galaxy%20Brain-Level%202%20🧠-ff69b4?style=for-the-badge" alt="Galaxy Brain Level 2" />
+    <img src="https://img.shields.io/badge/Pair%20Extraordinaire-Gold%20x3%20🤝-ffd700?style=for-the-badge&labelColor=333" alt="Pair Extraordinaire Gold" />
+    <img src="https://img.shields.io/badge/Pull%20Shark-Silver%20x2%20🦈-c0c0c0?style=for-the-badge&labelColor=222" alt="Pull Shark Silver" />
+    <img src="https://img.shields.io/badge/Quickdraw-Achieved%20🎯-brightgreen?style=for-the-badge" alt="Quickdraw" />
+    <img src="https://img.shields.io/badge/YOLO-Achieved%20🤠-orange?style=for-the-badge" alt="YOLO" />
+  </a>
+</p>
+
+---
+
+### 🥇 GitHub Dynamic Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shubrangshu1&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="Shubrangshu's Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Achievement-Quickdraw%20🎯-brightgreen?style=flat-square" alt="Quickdraw" />
-  <img src="https://img.shields.io/badge/Achievement-YOLO%20🤠-orange?style=flat-square" alt="YOLO" />
-  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark%20🦈%20x2-blue?style=flat-square" alt="Pull Shark" />
-  <img src="https://img.shields.io/badge/Achievement-Pair%20Extraordinaire%20🤝%20x2-purple?style=flat-square" alt="Pair Extraordinaire" />
-  <img src="https://img.shields.io/badge/Achievement-Galaxy%20Brain%20🧠-ff69b4?style=flat-square" alt="Galaxy Brain" />
 </p>
 
 ---
 
 ### 💼 Professional Overview & Core Competencies
 
-- 🌐 **Full-Stack Web Development**: Modern responsive applications with JavaScript, Node.js, Express, HTML5/CSS3, and RESTful architectures.
-- 📱 **Mobile Development**: Cross-platform application development with Flutter & Dart.
-- 🛰️ **IoT & Telematics Integration**: Experience architecting AIS-140 GPS telematics streams, route geo-fencing, and live weighbridge compliance monitoring.
-- ☁️ **Cloud & Backend Services**: Firebase (Authentication, Firestore, Realtime DB), Google Cloud Platform, and automated deployment pipelines.
+- 🌐 **Full-Stack Web Development**: Modern responsive architectures with JavaScript (ES6+), Node.js, Express, HTML5/CSS3, and REST APIs.
+- 📱 **Mobile Development**: Cross-platform mobile engineering with Flutter & Dart.
+- 🛰️ **IoT & Telematics Integration**: Experience architecting AIS-140 GPS telematics pipelines, route geo-fencing, and live weighbridge compliance monitoring.
+- ☁️ **Cloud & Backend Infrastructure**: Firebase (Authentication, Firestore, Realtime DB, Cloud Functions) & Google Cloud Platform.
 - 📍 **Based In**: Hyderabad, Telangana, India.
 
 ---
@@ -86,7 +92,15 @@
 
 ---
 
-### 📊 GitHub Activity & Streak
+### 📈 Activity & Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubrangshu1&theme=tokyo-night&hide_border=true&area=true" alt="Shubrangshu's Contribution Graph" width="95%" />
+</p>
+
+---
+
+### 📊 GitHub Analytics & Streak
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shubrangshu1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shubrangshu's GitHub Stats" width="48%" />
@@ -102,10 +116,3 @@
 <p align="center">
   Connect with me on <strong><a href="https://www.linkedin.com/in/shubrangshu-giri-1aaa2225a/">LinkedIn</a></strong> • Let's build something extraordinary together!
 </p>
-<!-- Gold Tier Milestone 20 -->
-<!-- Gold Tier Milestone 21 -->
-<!-- Gold Tier Milestone 22 -->
-<!-- Gold Tier Milestone 23 -->
-<!-- Gold Tier Milestone 24 -->
-<!-- Gold Tier Milestone 25 -->
-<!-- Gold Tier Milestone 26 -->
