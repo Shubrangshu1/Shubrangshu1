@@ -14,6 +14,14 @@
 
 ---
 
+### 🏆 GitHub Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubrangshu1&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="Shubrangshu's Trophies" />
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently building scalable enterprise web platforms & high-performance applications.
@@ -56,20 +64,3 @@
 <p align="center">
   <i>⭐️ Designed with precision & passion by <a href="https://github.com/Shubrangshu1">Shubrangshu Giri</a></i>
 </p>
-
-<!-- Verified Developer Profile -->
-<!-- Verified Developer Profile -->
-<!-- Achievement Metric Level 4 -->
-<!-- Achievement Metric Level 5 -->
-<!-- Achievement Metric Level 6 -->
-<!-- Achievement Metric Level 7 -->
-<!-- Achievement Metric Level 8 -->
-<!-- Achievement Metric Level 9 -->
-<!-- Achievement Metric Level 10 -->
-<!-- Achievement Metric Level 11 -->
-<!-- Achievement Metric Level 12 -->
-<!-- Achievement Metric Level 13 -->
-<!-- Achievement Metric Level 14 -->
-<!-- Achievement Metric Level 15 -->
-<!-- Achievement Metric Level 16 -->
-<!-- Achievement Metric Level 17 -->
