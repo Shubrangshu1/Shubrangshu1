@@ -73,7 +73,11 @@
 ### 📈 Activity & Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubrangshu1&theme=tokyo-night&hide_border=true&area=true" alt="Shubrangshu's Contribution Graph" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubrangshu1&theme=tokyonight" alt="Shubrangshu's Contribution Timeline" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/0077B5/Shubrangshu1" alt="Shubrangshu's GitHub Contributions Calendar" width="100%" />
 </p>
 
 ---
@@ -81,12 +85,7 @@
 ### 📊 GitHub Analytics & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubrangshu1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shubrangshu's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubrangshu1&theme=tokyonight&hide_border=true" alt="Shubrangshu's Streak Stats" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubrangshu1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubrangshu1&theme=tokyonight&hide_border=true" alt="Shubrangshu's Streak Stats" width="60%" />
 </p>
 
 ---
