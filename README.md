@@ -19,17 +19,60 @@
 
 ---
 
-### 🏆 Official GitHub Achievements
+### 🏆 Official GitHub Achievements Showcase
 
-<p align="center">
-  <a href="https://github.com/Shubrangshu1?tab=achievements">
-    <img src="https://img.shields.io/badge/Galaxy%20Brain-Level%202%20🧠-ff69b4?style=for-the-badge" alt="Galaxy Brain Level 2" />
-    <img src="https://img.shields.io/badge/Pair%20Extraordinaire-Gold%20x3%20🤝-ffd700?style=for-the-badge&labelColor=333" alt="Pair Extraordinaire Gold" />
-    <img src="https://img.shields.io/badge/Pull%20Shark-Silver%20x2%20🦈-c0c0c0?style=for-the-badge&labelColor=222" alt="Pull Shark Silver" />
-    <img src="https://img.shields.io/badge/Quickdraw-Achieved%20🎯-brightgreen?style=for-the-badge" alt="Quickdraw" />
-    <img src="https://img.shields.io/badge/YOLO-Achieved%20🤠-orange?style=for-the-badge" alt="YOLO" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="120px">
+      <a href="https://github.com/Shubrangshu1?tab=achievements">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png" width="90px" alt="Arctic Code Vault Contributor" /><br />
+        <sub><b>Arctic Code Vault</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120px">
+      <a href="https://github.com/Shubrangshu1?tab=achievements">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="90px" alt="Galaxy Brain" /><br />
+        <sub><b>Galaxy Brain</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120px">
+      <a href="https://github.com/Shubrangshu1?tab=achievements">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="90px" alt="Pair Extraordinaire" /><br />
+        <sub><b>Pair Extraordinaire</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120px">
+      <a href="https://github.com/Shubrangshu1?tab=achievements">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="90px" alt="Pull Shark" /><br />
+        <sub><b>Pull Shark</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120px">
+      <a href="https://github.com/Shubrangshu1?tab=achievements">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="90px" alt="Quickdraw" /><br />
+        <sub><b>Quickdraw</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120px">
+      <a href="https://github.com/Shubrangshu1?tab=achievements">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="90px" alt="YOLO" /><br />
+        <sub><b>YOLO</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120px">
+      <a href="https://github.com/Shubrangshu1?tab=achievements">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="90px" alt="Starstruck" /><br />
+        <sub><b>Starstruck</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120px">
+      <a href="https://github.com/Shubrangshu1?tab=achievements">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/public-sponsor-default.png" width="90px" alt="Public Sponsor" /><br />
+        <sub><b>Public Sponsor</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
