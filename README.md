@@ -1,6 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/shubrangshu-giri-1aaa2225a/">Shubrangshu Giri</a> 👋</h1>
 
 <p align="center">
+  <a href="https://github.com/Shubrangshu1?tab=followers">
+    <img src="https://img.shields.io/github/followers/Shubrangshu1?label=Follow%20%40Shubrangshu1&style=for-the-badge&color=2ea44f&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Shubrangshu1&color=0077B5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/shubrangshu-giri-1aaa2225a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -17,14 +20,33 @@
   Passionate software engineer building scalable enterprise platforms, real-time IoT/telematics tracking systems, and high-performance mobile applications.
 </p>
 
+<p align="center">
+  <strong>⭐ Star my repositories & 🔔 Follow along for new open-source projects!</strong>
+</p>
+
+---
+
+### 🏆 GitHub Achievements & Milestones
+
+<p align="center">
+  <a href="https://github.com/Shubrangshu1/github-achievements">
+    <img src="https://img.shields.io/badge/Pull%20Shark-Silver%20Tier%20(16+%20PRs)-blue?style=for-the-badge&logo=github&color=0969da" alt="Pull Shark Silver" />
+    <img src="https://img.shields.io/badge/Pair%20Extraordinaire-Silver%20Tier-2ea44f?style=for-the-badge&logo=github&color=2ea44f" alt="Pair Extraordinaire Silver" />
+    <img src="https://img.shields.io/badge/Achievement-YOLO-ff5722?style=for-the-badge&logo=github&color=e05d44" alt="YOLO" />
+    <img src="https://img.shields.io/badge/Achievement-Quickdraw-f9a825?style=for-the-badge&logo=github&color=dfb317" alt="Quickdraw" />
+  </a>
+  <br>
+  <sub>Explore my open-source achievement guides & sandbox at <a href="https://github.com/Shubrangshu1/github-achievements"><strong>Shubrangshu1/github-achievements</strong></a></sub>
+</p>
+
 ---
 
 ### 💼 Professional Overview & Core Competencies
 
-- 🌐 **Full-Stack Web Development**: Modern responsive architectures with JavaScript (ES6+), Node.js, Express, HTML5/CSS3, and REST APIs.
-- 📱 **Mobile Development**: Cross-platform mobile engineering with Flutter & Dart.
-- 🛰️ **IoT & Telematics Integration**: Experience architecting AIS-140 GPS telematics pipelines, route geo-fencing, and live weighbridge compliance monitoring.
-- ☁️ **Cloud & Backend Infrastructure**: Firebase (Authentication, Firestore, Realtime DB, Cloud Functions) & Google Cloud Platform.
+- 🌐 **Full-Stack Web Development**: Modern responsive architectures with JavaScript (ES6+), Node.js, Express, HTML5/CSS3, and RESTful APIs.
+- 📱 **Mobile Development**: High-performance cross-platform mobile engineering with Flutter & Dart.
+- 🛰️ **IoT & Telematics Integration**: Architecture for AIS-140 GPS telematics pipelines, real-time route geo-fencing, and live weighbridge compliance monitoring.
+- ☁️ **Cloud & Backend Infrastructure**: Firebase (Authentication, Cloud Firestore, Realtime DB, Cloud Functions) & Google Cloud Platform.
 - 📍 **Based In**: Hyderabad, Telangana, India.
 
 ---
@@ -70,26 +92,28 @@
 
 ---
 
-### 📈 Activity & Contribution Graph
+### 🚀 Featured Projects
+
+- 📌 **[GitHub Achievements Guide & Sandbox](https://github.com/Shubrangshu1/github-achievements)** — Complete open-source guide and references for unlocking GitHub badges and level tiers.
+- 📌 **Load Bearer** — Scalable web and fleet logistics tracking platform with clean responsive UX.
+- 📌 **IoT Telematics & Weighbridge Platform** — Industrial-grade IoT gateway system integrating GPS AIS-140 compliance, weighbridge data capture, and live telematics.
+
+---
+
+### 📊 GitHub Analytics & Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubrangshu1&theme=tokyonight" alt="Shubrangshu's Contribution Timeline" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubrangshu1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Shubrangshu's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubrangshu1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0077B5/Shubrangshu1" alt="Shubrangshu's GitHub Contributions Calendar" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=Shubrangshu1&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="95%" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics & Streak
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubrangshu1&theme=tokyonight&hide_border=true" alt="Shubrangshu's Streak Stats" width="60%" />
-</p>
-
----
-
-<p align="center">
-  Connect with me on <strong><a href="https://www.linkedin.com/in/shubrangshu-giri-1aaa2225a/">LinkedIn</a></strong> • Let's build something extraordinary together!
+  💡 <em>Looking to collaborate or build something innovative? Feel free to reach out!</em><br>
+  Connect with me on <strong><a href="https://www.linkedin.com/in/shubrangshu-giri-1aaa2225a/">LinkedIn</a></strong> • <strong><a href="https://github.com/Shubrangshu1?tab=followers">Follow on GitHub</a></strong>
 </p>
